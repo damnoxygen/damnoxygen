@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><a href="https://github.com/damnoxygen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=elunicoantivirusv&color=red&style=for-the-badge"></a></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><a href="https://github.com/damnoxygen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=damnoxygen&color=red&style=for-the-badge"></a></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
 ## Sup 👋
